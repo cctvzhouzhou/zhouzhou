@@ -20,7 +20,7 @@ about
 
 ### 联系方式  
 
-**tel:** <http://www.dagfans.com/>
+**网址:** <http://www.dagfans.com/>
 
 
 **Email:** <cctvzhouzhou@gmail.com>
