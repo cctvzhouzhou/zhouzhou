@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "bitbill使用指南"
-date:   2018-02-07 15:00:46 +0800
+title:  "study"
+date:   2018-02-26 15:00:46 +0800
 categories: jekyll update
 ---
-### 创建钱包
+### GitHub学习笔记
 	
 &ensp;&ensp;&ensp;&ensp;首次打开Bitbill会看到“**创建钱包**”的选项，点击 创建钱包 —> 我知道了—> 输入ID —> 输入密码 —> 确认密码 —> 完成
 
