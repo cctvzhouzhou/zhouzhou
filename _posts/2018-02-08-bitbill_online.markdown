@@ -13,7 +13,8 @@ about
 
 扫描下方二维码联系我
 
-![IOS](https://raw.githubusercontent.com/cctvzhouzhou/zhouzhou/master/images/WechatIMG141.jpeg)
+![IOS](https://github.com/cctvzhouzhou/zhouzhou/blob/master/images/WechatIMG144.jpeg)
+
 
 
 
